@@ -106,5 +106,4 @@ Repositori ini berisi tugas dan latihan dari **Modul 1 sampai Modul 11** praktik
 <img width="959" alt="1" src="https://github.com/user-attachments/assets/11946f7d-1963-4a67-9952-e20a53f53aed" />
 <img width="959" alt="2" src="https://github.com/user-attachments/assets/a9d68df5-995c-414e-af69-248d7975c0f5" />
 
-### Link Hosting : <a href="https://kelompok3upb.my.id/login">kelompok 3 upb</a>
 ---
