@@ -11,49 +11,47 @@ Repositori ini berisi tugas dan latihan dari **Modul 1 sampai Modul 11** praktik
 - Menjelaskan struktur folder CI4
 - Menjalankan server dengan `php spark serve`
 - Membuat route dan view sederhana
-<img width="959" alt="5" src="https://github.com/user-attachments/assets/24acb947-a215-4ccf-962f-beb9f20fecae" />
-<img width="959" alt="5" src="https://github.com/user-attachments/assets/5dab7f5a-eeb8-495c-b6a7-9ee1bf1a6eb6" />
-<img width="959" alt="6" src="https://github.com/user-attachments/assets/8d4ff168-7ead-4224-90a3-b0f093b5dd51" />
-<img width="959" alt="1" src="https://github.com/user-attachments/assets/f82f7e56-0dba-48f3-8226-da15a71ec76a" />
-<img width="959" alt="2" src="https://github.com/user-attachments/assets/4dd84858-b1ec-46ec-945c-b4d6371f72ac" />
-<img width="959" alt="3" src="https://github.com/user-attachments/assets/98a34b4b-01e6-41b0-b4bd-5ba11cb7984e" />
-<img width="959" alt="4" src="https://github.com/user-attachments/assets/eab0acec-7391-4b78-ba4d-e5a5ce264482" />
+<img width="959" alt="1" src="https://github.com/user-attachments/assets/c1cf7a45-7975-4094-bc06-b48faf99fcd6" />
+<img width="959" alt="2" src="https://github.com/user-attachments/assets/950601aa-0712-47fe-a4e6-d7077740b63f" />
+<img width="959" alt="3" src="https://github.com/user-attachments/assets/4af2216c-77d4-4a40-8424-770f8acc0978" />
+<img width="959" alt="4" src="https://github.com/user-attachments/assets/300a7f63-534c-468c-aa16-096f326948e7" />
+<img width="959" alt="5" src="https://github.com/user-attachments/assets/91446f68-9690-4fca-a7d6-7eee4058ff9f" />
+<img width="959" alt="6" src="https://github.com/user-attachments/assets/d29243b6-9049-49b6-8b66-e8cd4f5d3cb5" />
 
 ### 📁 Modul 2 - View, Layout, dan Routing
 - Membuat file view
 - Membuat layout HTML (header, footer)
 - Menyusun halaman utama dengan layout terpisah
 - Routing statis dan dinamis
-<img width="959" alt="5" src="https://github.com/user-attachments/assets/a51f9157-3ae2-4b19-8844-35d68a5ca7de" />
-<img width="959" alt="1" src="https://github.com/user-attachments/assets/deede0b0-3577-4cd2-87da-6a194d3e8465" />
-<img width="958" alt="2" src="https://github.com/user-attachments/assets/f7270d0d-fa88-46e6-a102-08fcaf6491e8" />
-<img width="959" alt="3" src="https://github.com/user-attachments/assets/2ce03646-f7ee-4ca4-8eb4-180afa1d2340" />
-<img width="959" alt="4" src="https://github.com/user-attachments/assets/128638ff-d47f-47ff-a210-db7bfa7f5e59" />
+<img width="959" alt="1" src="https://github.com/user-attachments/assets/10ff1f64-e8c0-4188-a820-ef296bd3d69f" />
+<img width="959" alt="2" src="https://github.com/user-attachments/assets/9dd1fc1a-9f35-417d-b2db-1d2fa5037acc" />
+<img width="959" alt="3" src="https://github.com/user-attachments/assets/049b4b9f-3971-481d-85e5-30cefb5e32cd" />
+<img width="959" alt="4" src="https://github.com/user-attachments/assets/dcbb40aa-80b8-4ee4-9037-984a64b7fa20" />
+<img width="959" alt="5" src="https://github.com/user-attachments/assets/89f939c1-7d7e-4b75-a27d-9fd97344184a" />
 
 ### 📁 Modul 3 - Controller dan Routing Dinamis
 - Membuat controller baru
 - Menghubungkan route ke controller
 - Meneruskan parameter dari URL ke controller
 - Routing default dan fallback
-<img width="959" alt="3" src="https://github.com/user-attachments/assets/b2441ecb-4956-43e1-bf2f-060497519ac4" />
-<img width="959" alt="1" src="https://github.com/user-attachments/assets/ad2a86e0-de4c-4ac7-8468-a7d749122535" />
-<img width="959" alt="2" src="https://github.com/user-attachments/assets/64d6b5e3-84f3-4462-9a5b-cb69c76795e5" />
-
+<img width="959" alt="1" src="https://github.com/user-attachments/assets/dbe5aace-37ae-4318-9316-1dbbaa64cf3d" />
+<img width="959" alt="2" src="https://github.com/user-attachments/assets/23717b70-c983-4cf1-a808-9ee42dacfb4f" />
+<img width="959" alt="3" src="https://github.com/user-attachments/assets/ac165c76-6906-47d3-aea6-ac3865609312" />
 
 ### 📁 Modul 4 - Model dan Koneksi Database
 - Menghubungkan CI4 ke MySQL
 - Membuat model dasar
 - Mengambil data dari database menggunakan model
 - Menampilkan data dari database ke view
-<img width="959" alt="1" src="https://github.com/user-attachments/assets/9381430d-9a41-46dd-910b-64b512e0797e" />
-<img width="959" alt="2" src="https://github.com/user-attachments/assets/e1dd3528-3828-4981-9ab4-a5313088bf4a" />
+<img width="959" alt="1" src="https://github.com/user-attachments/assets/4186ed3d-2ac1-4135-a3e2-bc290876e5cc" />
+<img width="959" alt="2" src="https://github.com/user-attachments/assets/0c80df22-0bff-45c2-a862-60666ed6f598" />
 
 ### 📁 Modul 5 - CRUD Artikel
 - Menampilkan daftar artikel
 - Menambahkan artikel (form input)
 - Mengedit dan menghapus artikel
 - Routing untuk setiap aksi (tambah, edit, hapus)
-<img width="959" alt="1" src="https://github.com/user-attachments/assets/44dd80a5-dbbf-47e7-8b7b-7ca0fb9e2e4e" />
+<img width="959" alt="1" src="https://github.com/user-attachments/assets/7947b1bd-7a5c-45a8-a441-d50f08c91ff2" />
 
 ### 📁 Modul 6 - Upload Gambar
 - Menambahkan input upload gambar ke form artikel
@@ -67,9 +65,9 @@ Repositori ini berisi tugas dan latihan dari **Modul 1 sampai Modul 11** praktik
 - Relasi artikel dengan kategori (FK)
 - Menggunakan Query Builder untuk join data
 - Menampilkan artikel beserta kategori
-<img width="959" alt="3" src="https://github.com/user-attachments/assets/abb23856-9210-4279-8959-eed662b591db" />
-<img width="959" alt="1" src="https://github.com/user-attachments/assets/eeaee1dc-09ad-4c16-9324-4be0b0aa1253" />
-<img width="959" alt="2" src="https://github.com/user-attachments/assets/1974012c-6be7-4bd3-91f2-8d16e0f1d564" />
+<img width="959" alt="1" src="https://github.com/user-attachments/assets/98fbb88f-6365-4715-a827-3f8915e87003" />
+<img width="959" alt="2" src="https://github.com/user-attachments/assets/980f53db-624a-42d2-94a7-a75725d33e5b" />
+<img width="959" alt="3" src="https://github.com/user-attachments/assets/eb183c55-a41b-4e08-a409-c8269286f402" />
 
 ### 📁 Modul 8 - Template Admin dan Layout Dinamis
 - Menambahkan template admin (admin_header dan admin_footer)
@@ -90,20 +88,19 @@ Repositori ini berisi tugas dan latihan dari **Modul 1 sampai Modul 11** praktik
 - Fitur pencarian artikel berdasarkan keyword
 - Menyesuaikan pagination dengan hasil pencarian
 - Menggunakan helper `pager`
-<img width="959" alt="4" src="https://github.com/user-attachments/assets/807a12bb-d9a9-4256-9581-1ee6dd78a931" />
-<img width="959" alt="5" src="https://github.com/user-attachments/assets/847e5966-8d52-4680-a215-b9bc6244876d" />
-<img width="959" alt="1" src="https://github.com/user-attachments/assets/88fa1874-2281-4605-8d47-fa82a5e416b9" />
-<img width="959" alt="2" src="https://github.com/user-attachments/assets/030800bf-1f50-4705-9c5b-1528f614e1e7" />
-<img width="959" alt="3" src="https://github.com/user-attachments/assets/436f97d7-2154-4b5e-bb51-d06871e6df9e" />
-
+<img width="959" alt="1" src="https://github.com/user-attachments/assets/de9c0af1-dd99-45b9-8b78-0275b5aba948" />
+<img width="959" alt="2" src="https://github.com/user-attachments/assets/f77f5b11-0934-404f-8596-ed64bd8ee012" />
+<img width="959" alt="3" src="https://github.com/user-attachments/assets/6b610f17-4cdf-464f-a685-b4ba6385abbd" />
+<img width="959" alt="4" src="https://github.com/user-attachments/assets/67648095-b943-4c72-bc10-29ecb68c10f3" />
+<img width="959" alt="5" src="https://github.com/user-attachments/assets/82f211ef-7f37-4c08-aab9-da507c6c53d5" />
 
 ### 📁 Modul 11 - Validasi dan Middleware
 - Validasi data input form (server-side)
 - Custom pesan error validasi
 - Penggunaan middleware / filter CI4
 - Validasi saat login dan submit form
-<img width="959" alt="3" src="https://github.com/user-attachments/assets/37cca53c-6d9d-431b-acbb-42a9b4c290f0" />
-<img width="959" alt="1" src="https://github.com/user-attachments/assets/11946f7d-1963-4a67-9952-e20a53f53aed" />
-<img width="959" alt="2" src="https://github.com/user-attachments/assets/a9d68df5-995c-414e-af69-248d7975c0f5" />
+<img width="959" alt="1" src="https://github.com/user-attachments/assets/82c2c425-8021-4af4-b5fc-72246bc44a37" />
+<img width="959" alt="2" src="https://github.com/user-attachments/assets/fddc5768-7381-47ab-8d40-d45496ab4ad7" />
+<img width="959" alt="3" src="https://github.com/user-attachments/assets/719cb3c6-db89-401e-b6eb-1eb15e73410b" />
 
 ---
