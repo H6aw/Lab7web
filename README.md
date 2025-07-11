@@ -2,9 +2,9 @@
 Repository ini merupakan kumpulan tugas praktikum Pemrograman Web menggunakan framework CodeIgniter 4 (CI4), yang mencakup modul 1 sampai modul 11. Proyek ini membahas pengembangan aplikasi web dinamis dari tahap dasar hingga lanjutan, termasuk penggunaan MVC, routing, database, autentikasi, dan REST API.
 
 ✅Modul 1 – Pengenalan CodeIgniter 4
-Instalasi CI4
-Struktur dasar folder dan file
-Routing dasar (app/Config/Routes.php)
+. Instalasi CI4
+. Struktur dasar folder dan file
+. Routing dasar (app/Config/Routes.php)
 
 ✅ Modul 2 – Controller dan View
 Pembuatan controller pertama
