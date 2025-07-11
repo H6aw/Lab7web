@@ -6,11 +6,25 @@
   margin: 0;
   padding: 0;
 }
+:root {
+ 
+  --warna-utama: #2c3e50;      
+  --warna-sekunder: #ecf0f1;  
+  --warna-aksen: #3498db;      
+  --warna-teks: #34495e;       
+  --warna-putih: #ffffff;
+}
 body {
-  line-height: 1;
-  font-size: 100%;
-  font-family: "Open Sans", sans-serif;
-  color: #5a5a5a;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+  background-color: var(--warna-sekunder); 
+  color: var(--warna-teks);
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: var(--warna-sekunder);
+  /* Contoh CSS dari Hero Patterns */
+  background-image: url("data:image/svg+xml,%3Csvg width='20' height='20' viewBox='0 0 20 20' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='%232c3e50' fill-opacity='0.1' fill-rule='evenodd'%3E%3Cpath d='M0 0h20v1H0zM0 2h20v1H0zM0 4h20v1H0zM0 6h20v1H0zM0 8h20v1H0zM0 10h20v1H0zM0 12h20v1H0zM0 14h20v1H0zM0 16h20v1H0zM0 18h20v1H0z'/%3E%3C/g%3E%3C/svg%3E");
 }
 #container {
   width: 980px;
@@ -19,12 +33,43 @@ body {
 }
 
 /* header */
-header {
-  padding: 20px;
+header, footer {
+  background-color: var(--warna-utama);
+  color: var(--warna-putih);
+  text-align: center;
+  padding: 2em 1em;
 }
-header h1 {
-  margin: 20px 10px;
-  color: #b5b5b5;
+
+nav {
+  background-color: #34495e; 
+  padding: 1em;
+  text-align: center;
+}
+
+nav a {
+  color: var(--warna-putih);
+  text-decoration: none;
+  margin: 0 15px;
+  font-weight: bold;
+  transition: color 0.3s;
+}
+
+nav a:hover {
+  color: var(--warna-aksen); 
+}
+
+article {
+  background-color: var(--warna-putih);
+  margin-bottom: 1.5em;
+  padding: 1.5em 2em;
+  border-radius: 8px; 
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1); 
+}
+
+h2 {
+  color: var(--warna-utama);
+  border-bottom: 3px solid var(--warna-aksen);
+  padding-bottom: 0.5em;
 }
 
 /* navigasi */
@@ -302,4 +347,22 @@ box img {
 }
 .entry .right-img {
   float: right;
+}
+
+main {
+  padding: 2em;
+  max-width: 1200px;
+  margin: 0 auto;    
+}
+
+.article-container {
+  display: flex; 
+  flex-wrap: wrap; 
+  gap: 1.5em;      
+}
+
+/* Buat setiap artikel mengambil ruang yang fleksibel */
+.article-container article {
+  flex: 1 1 300px; 
+  margin-bottom: 0; 
 }
